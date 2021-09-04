@@ -1,3 +1,6 @@
+**#SMART BRAIN**
+
+
 Smart Brain is a full stack project which makes use of the clarifai api for face recognition.
 
 Used the clarifai api to recognise faces from submitted images, set up a database with Express, PostgreSQL and Knex.js. Passwords were hashed and kept secure using bcrypt.
