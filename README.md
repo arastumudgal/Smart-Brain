@@ -1,71 +1,9 @@
-# Getting Started with Create React App
+Smart Brain is a full stack project which makes use of the clarifai api for face recognition.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Used the clarifai api to recognise faces from submitted images, set up a database with Express, PostgreSQL and Knex.js. Passwords were hashed and kept secure using bcrypt.
 
-## Available Scripts
+<img width="1280" alt="Screenshot 2021-09-04 at 12 35 37" src="https://user-images.githubusercontent.com/76526750/132086287-1ce08609-069e-4eb8-a8ba-60e6b5c5aa5c.png">
+<img width="1280" alt="Screenshot 2021-09-04 at 12 40 08" src="https://user-images.githubusercontent.com/76526750/132086294-74980e27-a5e5-4e1f-9207-b2a4286f4428.png">
+<img width="1280" alt="Screenshot 2021-09-04 at 12 39 45" src="https://user-images.githubusercontent.com/76526750/132086300-1f8b41c9-7e95-4fd5-8bda-2aec0b1cb127.png">
+<img width="1280" alt="Screenshot 2021-09-04 at 12 39 54" src="https://user-images.githubusercontent.com/76526750/132086306-632c7112-4283-41b8-a7b9-b027d2acf035.png">
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Smart-Brain
