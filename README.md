@@ -1,5 +1,4 @@
-**#SMART BRAIN**
-
+#SMART BRAIN
 
 Smart Brain is a full stack project which makes use of the clarifai api for face recognition.
 
